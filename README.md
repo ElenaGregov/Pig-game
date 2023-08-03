@@ -1,2 +1,7 @@
 # Pig-game
-Game
+
+Javascript game
+
+Project for Javascript course by Jonas Schmedtmann
+
+
